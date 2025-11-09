@@ -1,0 +1,18 @@
+python-dotenv
+groq
+tavily-python
+requests
+PyPDF2
+phidata
+openai
+geopy
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+tiktoken
+langchain-deepseek
+# New dependencies for agentic AI
+langchain-core
